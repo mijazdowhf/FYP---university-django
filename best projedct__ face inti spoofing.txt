@@ -1,0 +1,45 @@
+FYP: 
+FYP = project 1 + project 2
+
+
+prepair relivat informatyion:
+who will be the super viser
+what will the project idea
+what will be the goal.
+
+
+best live testing:
+https://pythonrepo.com/repo/Prem95-face-liveness-detector-python-deep-learning
+
+best testing:
+https://github.com/juan-csv/face_liveness_detection-Anti-spoofing
+
+all spoofing:
+https://github.com/topics/face-anti-spoofing
+
+
+https://github.com/juan-csv/face_liveness_detection-Anti-spoofing
+
+
+https://github.com/kprokofi/light-weight-face-anti-spoofing
+
+
+https://github.com/voqtuyen/CDCN-Face-Anti-Spoofing.pytorch
+
+
+
+
+
+
+
+best projedct__ face inti spoofing:
+
+https://www.youtube.com/watch?v=3re6XfOxWl8&ab_channel=NugrahaUtama
+
+
+readf this
+https://github.com/jomariya23156/face-recognition-with-liveness-web-login
+
+
+CAMTISA:
+ZBCUV-4VDCZ-BNDCC-AHPK5-KAM4R
